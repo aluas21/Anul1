@@ -1,0 +1,4 @@
+1,Ion,Liviu,Roman
+2,Moara,Ioan,Nuvela
+3,Plumb,Bacovia,Poezie
+4,Testamen,Arghezi,Modernism
